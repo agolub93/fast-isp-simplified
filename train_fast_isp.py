@@ -12,8 +12,8 @@ np.random.seed(0)
 torch.manual_seed(0)
 
 # CONSTANTS #
-TRAIN_SIZE = 100
-TEST_SIZE = 50
+TRAIN_SIZE = 46839
+TEST_SIZE = 1204
 dataset_dir = './images/'
 # # #
 
